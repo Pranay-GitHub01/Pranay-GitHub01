@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pranay-GitHub01
 - 👀 I’m interested in ...🌝
 - 🌱 I’m currently learning ...DSA in C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... different projects and frontend
+- 📫 How to reach me ... 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I am jolly 
 
