@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranay-GitHub01
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...DSA in C++
+- 🌱 I’m currently learning ... Spring Boot
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/pranay-kumar-5516b9264/
 - 😄 Pronouns: ...he/him
