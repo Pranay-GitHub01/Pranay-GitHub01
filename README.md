@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Pranay-GitHub01
-- 👀 I’m interested in ...🌝
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...DSA in C++
-- 💞️ I’m looking to collaborate on ... different projects and frontend
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me ... https://www.linkedin.com/in/pranay-kumar-5516b9264/
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I am jolly 
+- ⚡ Fun fact: ... #Creating an web app is fun but,finding semicolon bugs is more brainstroming <3
 
 <!---
 Pranay-GitHub01/Pranay-GitHub01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
